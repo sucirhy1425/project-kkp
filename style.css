@@ -213,23 +213,18 @@ a {
 }
 .hero {
     min-height: 560px;
-
     background:
         linear-gradient(
             110deg,
             #092a50,
             #174777 58%,
-            #60758a
-        );
-
+            #60758a);
     color: #ffffff;
-
     overflow: hidden;
 }
 
 .hero-inner {
     min-height: 560px;
-
     display: flex;
     align-items: center;
     justify-content: space-between;
