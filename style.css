@@ -1422,7 +1422,9 @@ a.contact-item:hover strong {
     .wa-float span {
         display: none;
     }
-
+.hero-visual {
+    outline: 3px solid red;
+}
     .wa-float {
         padding: 10px;
     }
