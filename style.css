@@ -561,11 +561,10 @@ a {
     display: block;
 @media (max-width: 650px) {
     .company-visual {
-        height: 300px;
-
+        height: 250px;
+    }
 .visual-placeholder {
-    height: 0%;
-
+    height: 100%;
     background:
         linear-gradient(
             135deg,
